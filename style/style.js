@@ -17,7 +17,7 @@ export default StyleSheet.create({
     flexDirection: 'row',
     marginTop: 1,
     marginBottom: 20,
-    backgroundColor: '#3A1078',
+    backgroundColor: '#78C2D9',
     
   },
   footer: {
@@ -43,6 +43,7 @@ export default StyleSheet.create({
     fontWeight: 'bold',
     fontSize: 28,
     margin: 10,
+    
   },
   author: {
     flex: 1,
